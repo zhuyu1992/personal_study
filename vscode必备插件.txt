@@ -1,0 +1,41 @@
+微信小程序
+1.minapp  支持微信小程序标签、属性的智能补全，并且提示中包含文档内容（同时支持原生小程序、mpvue 和 wepy 框架，并提供 snippets）
+2.wechat-snippet  这个插件主要的功能就是代码辅助，代码片段自动完成，可以作为上个插件的补充
+3.wxml 这款插件用于将wxml代码进行高亮显示，并且提供代码格式化的功能，可将代码格式化为较易阅读的样式。
+4.easy less 将less转换成css
+需在setting.json配置
+"less.compile": {
+            "compress":  false,  // true => remove surplus whitespace
+            "sourceMap": false,  // true => generate source maps (.css.map files)
+            "out":       true,
+            "outExt": ".wxss", 
+        }
+
+vue
+
+Vetur —— 语法高亮、智能感知、Emmet等
+包含格式化功能， Alt+Shift+F （格式化全文），Ctrl+K Ctrl+F（格式化选中代码，两个Ctrl需要同时按着）
+
+EsLint —— 语法纠错
+view in browser —— 如何用浏览器预览运行html文件
+Debugger for Chrome —— 映射vscode上的断点到chrome上，方便调试（配置有点麻烦，其实我没用这个）
+
+Auto Close Tag —— 自动闭合HTML/XML标签
+
+Auto Rename Tag —— 自动完成另一侧标签的同步修改
+
+JavaScript(ES6) code snippets —— ES6语法智能提示以及快速输入，除js外还支持.ts，.jsx，.tsx，.html，.vue，省去了配置其支持各种包含js代码文件的时间
+
+Path Intellisense —— 自动路劲补全
+
+HTML CSS Support —— 让 html 标签上写class 智能提示当前项目所支持的样式
+
+React-native 快捷键显示-----react组件模板；例如：cccs
+vue vscode snippets 快捷键显示------vue组件模板；例如：vba
+
+
+flutter：
+
+flutter
+
+dart

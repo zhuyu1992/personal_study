@@ -1,0 +1,20 @@
+AccessKey ID：    LTAI4FcF3uc7AUadbPuPCf6z
+
+AccessKey Secret： 7gmU5BMHIAqXjrLedS16c2fPWICkF7
+
+
+https://allweing-guli.oss-cn-hangzhou.aliyuncs.com/avatar/f1.jpg
+
+bucket：allweing-guli
+
+endpoint: oss-cn-hangzhou.aliyuncs.com
+
+
+短信
+
+SMS_180053690
+
+签名：
+乐乐商城
+
+抽象类用于约束继承的子类必须要实现的方法
